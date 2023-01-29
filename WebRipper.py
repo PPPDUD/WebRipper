@@ -11,7 +11,7 @@ while True:
               debug=True,
               open_in_browser=True,
               delay=None,
-              threaded=False,
+              threaded=True,
         )
 
     except Exception as e:
